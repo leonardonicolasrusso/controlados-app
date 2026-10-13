@@ -1,0 +1,54 @@
+{
+  "modelos": [
+    {
+      "marca": "NOBLEX",
+      "modelo": "EA50X6100",
+      "control": 500
+    },
+    {
+      "marca": "LG",
+      "modelo": "32LF565B",
+      "control": 477
+    },
+    {
+      "marca": "NOBLEX",
+      "modelo": "LT32DR530",
+      "control": 446
+    },
+    {
+      "marca": "SAMSUNG",
+      "modelo": "UN43J5320",
+      "control": 520
+    }
+  ],
+  "reemplazos": [
+    {
+      "control": 500,
+      "reemplazos": "522-553"
+    },
+    {
+      "control": 446,
+      "reemplazos": "452"
+    },
+    {
+      "control": 520,
+      "reemplazos": "589"
+    },
+    {
+      "control": 477,
+      "reemplazos": "525"
+    }
+  ],
+  "usuarios": [
+    {
+      "dni": "11111111",
+      "nombre": "CLIENTE DE PRUEBA",
+      "activo": true
+    },
+    {
+      "dni": "22222222",
+      "nombre": "CLIENTE INACTIVO",
+      "activo": false
+    }
+  ]
+}
